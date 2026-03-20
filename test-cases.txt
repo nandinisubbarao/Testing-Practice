@@ -6,3 +6,9 @@ User Assignment:
 1. Assign user
 2. Remove user
 3. Reassign user
+Profile Update:
+1. Valid update
+2. Invalid email
+Password Reset:
+1. Valid email
+2. Invalid email
