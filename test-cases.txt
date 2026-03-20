@@ -2,3 +2,7 @@ Login Test Cases:
 1. Valid login
 2. Invalid login
 3. Empty fields
+User Assignment:
+1. Assign user
+2. Remove user
+3. Reassign user
